@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About us:
 # TINC-org<br><br><div align="center"><br><br><img src="assets/logo.png" width="180"/><br><br>### Building the Future, One Repository at a Time.<br><br>Open Source • Systems • AI • Cloud • DevOps • Security • Education<br><br></div><br><br>---<br><br>## 🚀 About<br><br>TINC-org is an open-source organization focused on building modern software, developer tools, educational resources, and scalable systems.<br><br>Our goal is to create projects that are:<br>- 🛠 Production Ready<br>- 📚 Educational<br>- 🔒 Secure<br>- ⚡ High Performance<br>- 🌍 Open Source<br>
 
 
