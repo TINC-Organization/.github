@@ -1,5 +1,8 @@
 About Us
 
+<img width="582" height="513" alt="image" src="https://github.com/user-attachments/assets/5345a2a6-b7be-481e-9d75-5a0fa391e77d" />
+
+
 
 # Building the Future, One Repository at a Time.<br><br>Open Source • Systems • AI • Cloud • DevOps • Security • Education<br><br></div><br><br>---<br><br>## 🚀 About<br><br>TINC-org is an open-source organization focused on building modern software, developer tools, educational resources, and scalable systems.<br><br>Our goal is to create projects that are:<br>- 🛠 Production Ready<br>- 📚 Educational<br>- 🔒 Secure<br>- ⚡ High Performance<br>- 🌍 Open Source<br>
 
