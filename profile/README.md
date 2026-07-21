@@ -1,11 +1,44 @@
 About Us
 
-<img width="582" height="513" alt="image" src="https://github.com/user-attachments/assets/5345a2a6-b7be-481e-9d75-5a0fa391e77d" />
+<img width="123" height="110" alt="image" src="https://github.com/user-attachments/assets/bf664f71-affd-4acf-91db-9bb6d81aabad" />
 
+# World OpenTTEAM Corporation
 
+> **Building Next-Generation Systems, Runtimes, and Developer Tools**
 
-# Building the Future, One Repository at a Time.<br><br>Open Source • Systems • AI • Cloud • DevOps • Security • Education<br><br></div><br><br>---<br><br>## 🚀 About<br><br>TINC-org is an open-source organization focused on building modern software, developer tools, educational resources, and scalable systems.<br><br>Our goal is to create projects that are:<br>- 🛠 Production Ready<br>- 📚 Educational<br>- 🔒 Secure<br>- ⚡ High Performance<br>- 🌍 Open Source<br>
+Welcome to the official GitHub organization for **World OpenTTEAM Corporation**. We are an open-source development collective dedicated to low-level optimization, high-performance runtime execution, and modern developer workflow tools.
 
+---
+
+## ⚡ Featured Core Projects
+
+### 🔷 [Tetrahedron Oxygen](https://github.com/TINC-Organization/TeraFrame)
+**The Core Execution Engine & Programming Language**
+* **Deterministic Allocation:** Runs on custom C++ Arena Allocators to eliminate dynamic memory overhead and fragmentation.
+* **Single-Cycle Parsing:** Utilizes raw bitwise operations for ultra-fast instruction processing.
+* **Cross-Platform:** Native support across Linux, macOS, and Windows with hermetic Bazel build integration.
+
+### 🛠️ [Oxygen Studio (T7D)](https://github.com/TINC-Organization/T7D)
+**Intelligent Developer & Architecture Workspace**
+* **Modern .NET Interface:** A high-contrast, responsive desktop IDE built for architecture inspection and performance monitoring.
+* **Visual Graph Engine:** Node-based workflow canvas designed to map data pipelines and monitor runtime behavior.
+
+---
+
+## 🏗️ Ecosystem Architecture
+
+```text
+World OpenTTEAM Corporation Ecosystem
+│
+├── Tetrahedron Oxygen (Core Language & Low-Level Engine)
+│   ├── Arena Memory Allocator (C++)
+│   ├── Bitwise Execution Pipeline
+│   └── Multi-Platform Build Scripts (all.bash / all.bat)
+│
+└── Oxygen Studio / T7D (Intelligent Desktop Environment)
+    ├── .NET Native UI Canvas
+    ├── Visual Node Graph Workflows
+    └── Live Engine Telemetry & IPC Bridge
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___Chirz.17_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TINC-Chirag) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Silicon11w) 
