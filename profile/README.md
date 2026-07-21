@@ -2,11 +2,11 @@ About Us
 
 <img width="123" height="110" alt="image" src="https://github.com/user-attachments/assets/bf664f71-affd-4acf-91db-9bb6d81aabad" />
 
-# World OpenTTEAM Corporation
+# World OpenTEAM Foundation
 
 > **Building Next-Generation Systems, Runtimes, and Developer Tools**
 
-Welcome to the official GitHub organization for **World OpenTTEAM Corporation**. We are an open-source development collective dedicated to low-level optimization, high-performance runtime execution, and modern developer workflow tools.
+Welcome to the official GitHub organization for **World OpenTEAM Foundation**. We are an open-source development collective dedicated to low-level optimization, high-performance runtime execution, and modern developer workflow tools.
 
 ---
 
@@ -28,7 +28,7 @@ Welcome to the official GitHub organization for **World OpenTTEAM Corporation**.
 ## 🏗️ Ecosystem Architecture
 
 ```text
-World OpenTTEAM Corporation Ecosystem
+World OpenTEAM Foundation Ecosystem
 │
 ├── Tetrahedron Oxygen (Core Language & Low-Level Engine)
 │   ├── Arena Memory Allocator (C++)
